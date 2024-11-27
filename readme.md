@@ -35,9 +35,14 @@ Welcome to **PicExplorer**, your go-to app for discovering and exploring a vast 
 
 ## 🎥 App Preview
 
-| Search Page                       | Image Details Page                |
-|-----------------------------------|------------------------------------|
-| ![Search Page GIF](./assets/search.gif) | ![Details Page GIF](./assets/details.gif) |
+| Image 1                           | Image 2                           |
+|-----------------------------------|-----------------------------------|
+| ![Search Page GIF](./image_1.png) | ![Details Page GIF](./image2.png) |
+
+| Image 3                          | Image 4                           |
+|----------------------------------|-----------------------------------|
+| ![Search Page GIF](./image3.png) | ![Details Page GIF](./image4.png) |
+
 
 > _GIFs coming soon! Check out the app for the full experience._
 
@@ -140,4 +145,3 @@ Happy coding! 💻
 
 ---
 
-Let me know if you'd like me to adjust any part of the README or add personalized details.
